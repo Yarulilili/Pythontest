@@ -1,0 +1,10 @@
+D:\VS_FunctionTest\HttpTrigger\ServiceBusTrigger\ServiceBusTrigger\bin\Debug\netcoreapp2.2\ServiceBusTrigger.deps.json
+D:\VS_FunctionTest\HttpTrigger\ServiceBusTrigger\ServiceBusTrigger\bin\Debug\netcoreapp2.2\ServiceBusTrigger.runtimeconfig.json
+D:\VS_FunctionTest\HttpTrigger\ServiceBusTrigger\ServiceBusTrigger\bin\Debug\netcoreapp2.2\ServiceBusTrigger.runtimeconfig.dev.json
+D:\VS_FunctionTest\HttpTrigger\ServiceBusTrigger\ServiceBusTrigger\bin\Debug\netcoreapp2.2\ServiceBusTrigger.dll
+D:\VS_FunctionTest\HttpTrigger\ServiceBusTrigger\ServiceBusTrigger\obj\Debug\netcoreapp2.2\ServiceBusTrigger.csprojAssemblyReference.cache
+D:\VS_FunctionTest\HttpTrigger\ServiceBusTrigger\ServiceBusTrigger\obj\Debug\netcoreapp2.2\ServiceBusTrigger.AssemblyInfoInputs.cache
+D:\VS_FunctionTest\HttpTrigger\ServiceBusTrigger\ServiceBusTrigger\obj\Debug\netcoreapp2.2\ServiceBusTrigger.AssemblyInfo.cs
+D:\VS_FunctionTest\HttpTrigger\ServiceBusTrigger\ServiceBusTrigger\bin\Debug\netcoreapp2.2\ServiceBusTrigger.pdb
+D:\VS_FunctionTest\HttpTrigger\ServiceBusTrigger\ServiceBusTrigger\obj\Debug\netcoreapp2.2\ServiceBusTrigger.dll
+D:\VS_FunctionTest\HttpTrigger\ServiceBusTrigger\ServiceBusTrigger\obj\Debug\netcoreapp2.2\ServiceBusTrigger.pdb
